@@ -1,0 +1,50 @@
+.started {
+  background-color: #fff706;
+}
+
+.todoItem {
+  width: 100%;
+  padding: 45px 20px;
+  background-color: #b8b7b7;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.done {
+  background-color: #05f821 !important;
+}
+
+.todoContainer {
+  margin-bottom: 10px;
+}
+
+.todoContainer span {
+  margin-right: 2%;
+}
+
+label {
+  margin-right: 5px;
+}
+
+.startTask,
+.doneTask {
+  float: right;
+  margin-right: 2%;
+}
+
+.timeStart {
+  margin-right: 5%;
+}
+
+.delete {
+  float: right;
+  padding: 5px 10px;
+  cursor: pointer;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+.delete:hover {
+  background-color: red;
+  border: 1px solid red;
+}

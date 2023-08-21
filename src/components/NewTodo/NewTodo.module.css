@@ -1,0 +1,31 @@
+.newTodo {
+  padding: 20px 0;
+  width: 100%;
+}
+
+.newTodo input {
+  padding: 10px 5px;
+  width: 69%;
+  margin-right: 1%;
+}
+
+.newTodo button {
+  padding: 10px 0;
+  width: 30%;
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-radius: 5px;
+}
+
+.delete {
+  float: right;
+  padding: 5px 10px;
+  cursor: pointer;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+.delete:hover {
+  background-color: red;
+  border: 1px solid red;
+}

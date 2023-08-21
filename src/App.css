@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  color: #000;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+/* font-family: 'PT Sans', sans-serif;
+
+font-family: 'Roboto', sans-serif; */
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+}

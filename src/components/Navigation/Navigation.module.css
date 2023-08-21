@@ -1,0 +1,9 @@
+.navigation ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navigation ul li {
+  margin-right: 2%;
+}
